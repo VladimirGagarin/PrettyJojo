@@ -379,9 +379,10 @@ body {
     border-radius: 10px;
     margin-bottom: 10px;
     text-align: center;
-    z-index: 2;
+    z-index: 1;
     width: 98%;
     color: #fff;
+    height: 20vh;
      
 }
 
@@ -452,6 +453,7 @@ body {
     height: 9vh;
     align-items: center;
     background-color: transparent;
+    z-index: 2;
 }
 
 /* Styling for individual buttons */
